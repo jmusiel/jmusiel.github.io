@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Joseph Musielewicz"
-  avatar           : "joe_happy.png"
+  avatar           : "images/joe_happy.png"
   bio              : "PhD Student at CMU"
   location         : "Pittsburgh, PA"
   employer         :
