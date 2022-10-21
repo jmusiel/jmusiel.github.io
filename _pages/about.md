@@ -13,3 +13,5 @@ I am a PhD at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Za
 I completed my Bachelor's of Science in Chemical Engineering, with a minor in Computer Science, at [Iowa State University](https://www.iastate.edu/) in 2019. There I was involved in researching carbon nanotube biosensors advised by [Nigel Reuel](http://www.reuelgroup.org/).
 
 In my free time I enjoy spending time with family and friends. I love board games and outdoor activities – my favorites being Agricola and skiing. And I always appreciate the opportunity to try a new IPA or sour.
+
+If you have questions about my research or want to collaborate on anything, feel free to reach out to me via email.
