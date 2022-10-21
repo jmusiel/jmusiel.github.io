@@ -61,7 +61,8 @@
     {% endif %}
 
     {% if post.image %}
-      {% if post.image.end_with?("pdf") %}
+      {% assign ext = page.path | split: "." | last %}
+      {% if ext == "pdf" %}
         <embed
           src="{{post.image}}"
           type="application/pdf"
