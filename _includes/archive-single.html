@@ -61,7 +61,7 @@
     {% endif %}
 
     {% if post.image %}
-      {% if post.image.split('.').last == "pdf" %}
+      {% if post.image.end_with?("pdf") %}
         <embed
           src="{{post.image}}"
           type="application/pdf"
