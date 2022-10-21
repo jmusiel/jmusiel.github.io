@@ -14,7 +14,7 @@ description              : &description "PhD Student at CMU"
 url                      : https://jmusiel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jmusiel/jmusiel.github.io"
-teaser                   : "joe_cropped.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "joe_cropped.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Joseph Musielewicz"
-  avatar           : "images/joe_happy.png"
+  avatar           : "images/joe_happy.jpg"
   bio              : "PhD Student at CMU"
   location         : "Pittsburgh, PA"
   employer         :
