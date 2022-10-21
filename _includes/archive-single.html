@@ -61,27 +61,8 @@
     {% endif %}
 
     {% if post.image %}
-        <iframe
-          src="{{post.image}}"
-          frameBorder="0"
-          scrolling="auto"
-          height="100%"
-          width="100%"
-        ></iframe>
-      <!-- {% assign ext = page.path | split: "." | last %}
-      {% if ext == "pdf" %}
-        <embed
-          src="{{post.image}}"
-          type="application/pdf"
-          frameBorder="0"
-          scrolling="auto"
-          height="100%"
-          width="100%"
-        ></embed>
-      {% else %}
-        <br>
-        <img src="{{post.image}}">
-      {% endif %} -->
+      <br>
+      <img src="{{post.image}}">
     {% endif %}
 
   </article>
