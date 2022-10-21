@@ -7,5 +7,5 @@ date: 2022-08-17
 venue: 'arXiv'
 paperurl: 'https://doi.org/10.48550/arXiv.2208.08337'
 image: '../images/uq_conformal_prediction.pdf'
-citation: 'Hu, Yuge, <b>Joseph Musielewicz</b>, Zachary Ulissi, and Andrew J. Medford "Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials." <i>arXiv preprint arXiv:2208.08337</i> (2022).'
+citation: 'Yuge Hu, <b>Joseph Musielewicz</b>, Zachary Ulissi, and Andrew J. Medford "Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials." <i>arXiv preprint arXiv:2208.08337</i> (2022).'
 ---
