@@ -23,9 +23,9 @@ If you have questions about my research or want to collaborate on anything, feel
 - *October 2023*: Finished my internship with FAIR at Meta AI, working on uncertainty quantification for the [Open Catalyst Demo](https://open-catalyst.metademolab.com/). Thanks to all the amazing people there!
 - *June 2023*: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html) announced for NeurIPS 2023 
 - *January 2023*: Wishing all the best to my advisor, Zack Ulissi, as he transitions to the FAIR Chemistry team at Meta AI. Looking forward to working with my new primary advisor, John Kitchin!
+- *December 2022*: [Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials](https://doi.org/10.1088/2632-2153/aca7b1) paper is published in Machine Learning: Science and Technology.
 - *November 2022*: Gave a talk on my work on [Finetuna](https://doi.org/10.1088/2632-2153/ac8fe0) and nudged elastic band methods at the AIChE annual meeting in Phoenix.
 - *September 2022*: [Finetuna](https://doi.org/10.1088/2632-2153/ac8fe0) paper is published in Machine Learning: Science and Technology.
-- *August 2022*: [Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials](https://doi.org/10.48550/arXiv.2208.08337) paper is up.
 - *June 2022*: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html) is announced for NeurIPS 2022!
 - *May 2022*: Gave a talk at the *27th North American Catalysis Society Meeting* on *Accelerating Geometric Optimizations By Finetuning Open Catalyst Project Models with Active Learning*
 - *November 2021*: Presented a poster at *AICHE 2021* on *Accelerating on-the-Fly Active Learning of Catalyst Simulations By Leveraging the OC20 Dataset of Adsorbate Relaxations*.
