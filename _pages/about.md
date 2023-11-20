@@ -18,7 +18,13 @@ If you have questions about my research or want to collaborate on anything, feel
 
 ## Recent News
 
-- *September 2022*: [Finetuna](https://doi.org/10.1088/2632-2153/ac8fe0) paper is published.
+- *November 2023*: My work on [Predictive Uncertainty Quantification for Graph Neural Network Driven Relaxed Energy Calculations](https://openreview.net/pdf?id=rdgB5BqWCw) accepted to NeurIPS 2023 AI4Science workshop, and I will presenting a poster there in December.
+- *November 2023*: [Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials](https://doi.org/10.48550/arXiv.2208.08337) preprint is up on arXiv.
+- *October 2023*: Finished my internship with FAIR at Meta AI, working on uncertainty quantification for the [Open Catalyst Demo](https://open-catalyst.metademolab.com/). Thanks to all the amazing people there!
+- *June 2023*: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html) announced for NeurIPS 2023 
+- *January 2023*: Wishing all the best to my advisor, Zack Ulissi, as he transitions to the FAIR Chemistry team at Meta AI. Looking forward to working with my new primary advisor, John Kitchin!
+- *November 2022*: Gave a talk on my work on [Finetuna](https://doi.org/10.1088/2632-2153/ac8fe0) and nudged elastic band methods at the AIChE annual meeting in Phoenix.
+- *September 2022*: [Finetuna](https://doi.org/10.1088/2632-2153/ac8fe0) paper is published in Machine Learning: Science and Technology.
 - *August 2022*: [Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials](https://doi.org/10.48550/arXiv.2208.08337) paper is up.
 - *June 2022*: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html) is announced for NeurIPS 2022!
 - *May 2022*: Gave a talk at the *27th North American Catalysis Society Meeting* on *Accelerating Geometric Optimizations By Finetuning Open Catalyst Project Models with Active Learning*
