@@ -18,7 +18,8 @@ If you have questions about my research or want to collaborate on anything, feel
 
 ## Recent News
 
-- *July 2024*: [Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances]() preprint is up on arXiv.
+- *October 2024* [Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis](https://arxiv.org/abs/2410.01650) preprint is up on arXiv.
+- *July 2024*: [Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances](https://arxiv.org/abs/2407.10844) preprint is up on arXiv.
 - *November 2023*: My work on [Predictive Uncertainty Quantification for Graph Neural Network Driven Relaxed Energy Calculations](https://openreview.net/pdf?id=rdgB5BqWCw) accepted to NeurIPS 2023 AI4Science workshop, and I will presenting a poster there in December.
 - *November 2023*: [Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials](https://doi.org/10.48550/arXiv.2208.08337) preprint is up on arXiv.
 - *October 2023*: Finished my internship with FAIR at Meta AI, working on uncertainty quantification for the [Open Catalyst Demo](https://open-catalyst.metademolab.com/). Thanks to all the amazing people there!

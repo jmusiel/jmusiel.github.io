@@ -7,5 +7,5 @@ date: 2024-07-15
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2407.10844'
 image: '../images/uq_engineered_latent_spaces.png'
-citation: '<b>Joseph Musielewicz</b>, Janice Lan, and Matt Uyttendaele "Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances"; <i>preprint arXiv:2407.10844</i> (2024).'
+citation: '<b>Joseph Musielewicz</b>, Janice Lan, Matt Uyttendaele, and John R. Kitchin "Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances"; <i>preprint arXiv:2407.10844</i> (2024).'
 ---
