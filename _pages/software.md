@@ -13,6 +13,18 @@ Paper: [FINETUNA: fine-tuning accelerated molecular simulations](https://iopscie
 Codebase: [github.com/ulissigroup/finetuna](https://github.com/ulissigroup/finetuna)  
 Data: [github.com/ulissigroup/finetuna_manuscript](https://github.com/ulissigroup/finetuna_manuscript)
 
+## Uncertainty Quantification for Open Catalyst Project Models - `UQOCP`
+I am the lead developer of [`UQOCP`](https://github.com/ulissigroup/uqocp), a package containing tools and dataset generation for benchmarking and implementing uncertainty quantification methods for OCP graph models.
+
+Paper: [Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances](https://arxiv.org/abs/2407.10844)  
+Codebase: [github.com/ulissigroup/uqocp](https://github.com/ulissigroup/uqocp)  
+
+## Predicting and Applying Hessians with Graph Neural Network Potentials - `Gibby`
+I am a co-developer of [`Gibby`](https://github.com/jmusiel/gibby), a package which implements tools for benchmarking Hessian predictions, and using them for Gibbs free energy prediction, transition state finding, and potential energy surface characterization among other things.
+
+Paper: [Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis](https://arxiv.org/abs/2410.01650)  
+Codebase: [github.com/jmusiel/gibby](https://github.com/jmusiel/gibby)  
+
 ## Fine-Tuning Accelerated Nudged Elastic Band Methods - `NEBtuna`
 
 I am leading the development of NEBtuna, which is currently in development. NEBtuna is another active learning package, this time using pre-trained models for the on-the-fly acceleration of nudged elastic band methods (NEBs).
