@@ -12,7 +12,7 @@ I am a PhD at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Jo
 
 I completed my Bachelor's of Science in Chemical Engineering, with a minor in Computer Science, at [Iowa State University](https://www.iastate.edu/) in 2019. There I was involved in researching carbon nanotube biosensors advised by [Nigel Reuel](http://www.reuelgroup.org/), and with research into using novel MOFs for carbon capture on the NASA Artemis missions as part of the *NASA X-Hab Academic Innovation Challenge*.
 
-In my free time I enjoy spending time with family and friends. I love board games and outdoor activities – my favorites being Agricola and canoeing. And I always appreciate the opportunity to try a new IPA or sour.
+In my free time I enjoy spending time with family and friends. I love board games and outdoor activities – my favorites being *Race for the Galaxy* and canoeing. And I always appreciate the opportunity to try a new IPA or sour.
 
 If you have questions about my research or want to collaborate on anything, feel free to reach out to me via email.
 
