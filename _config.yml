@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joseph Musielewicz"
 title_separator          : "-"
 name                     : &name "Joseph Musielewicz"
-description              : &description "PhD Student at CMU"
+description              : &description "Machine Learning Scientist at Entalpic, PhD from Carnegie Mellon University"
 url                      : https://jmusiel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jmusiel/jmusiel.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Joseph Musielewicz"
   avatar           : "joe_happy.jpg"
-  bio              : "PhD Student at CMU"
-  location         : "Pittsburgh, PA"
+  bio              : "Machine Learning Scientist at Entalpic<br/>PhD from CMU"
+  location         : "Paris, France"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=2&user=z4KZ2TkAAAAJ"
-  email            : "jmus [AT] cmu.edu"
+  email            : "jmusiele [AT] alumni.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -246,6 +246,7 @@ defaults:
       share: true
   # _redirects
   - scope:
+      path: ""
       type: redirects
     values:
       layout: redirect

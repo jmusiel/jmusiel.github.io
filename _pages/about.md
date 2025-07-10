@@ -8,16 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD at [Carnegie Mellon University](https://www.cmu.edu/), advised by [John Kitchin](https://engineering.cmu.edu/directory/bios/kitchin-john.html) and [Zachary Ulissi](https://ulissigroup.cheme.cmu.edu/bio/). I work on active learning and transfer learning techniques to adapt large-scale graph neural networks to low-resource problems in catalysis. I strive to develop methods and frameworks capable of accelerating molecular simulations of catalytic systems by orders of magnitude, with the aim of helping to address societal energy and environmental challenges, particularly climate change. I collaborate with the [Open Catalyst Project](https://opencatalystproject.org/) to make use of the large-scale graph models developed to discover new catalysts for use in renewable energy storage. I am also very interested in the application of uncertainty metrics for graph neural networks to making these methods more robust and reliable. 
+I am currently working as a Machine Learning Scientist for Chemistry at [Entalpic](https://entalpic.ai/), where I lead the effort to develop an active learning pipeline for chemistry. Together we are combining AI, computational chemistry, and experimental labs to discover novel materials and accelerate materials discovery.
 
-I completed my Bachelor's of Science in Chemical Engineering, with a minor in Computer Science, at [Iowa State University](https://www.iastate.edu/) in 2019. There I was involved in researching carbon nanotube biosensors advised by [Nigel Reuel](http://www.reuelgroup.org/), and with research into using novel MOFs for carbon capture on the NASA Artemis missions as part of the *NASA X-Hab Academic Innovation Challenge*.
+I completed my PhD at [Carnegie Mellon University](https://www.cmu.edu/), advised by [John Kitchin](https://engineering.cmu.edu/directory/bios/kitchin-john.html) and [Zachary Ulissi](https://zulissi.github.io/). 
+My research focused on active learning and transfer learning techniques to adapt large-scale graph neural networks to low-resource problems in catalysis. 
+I worked to develop methods and frameworks capable of accelerating molecular simulations of catalytic systems by orders of magnitude, with the aim of helping to address societal energy and environmental challenges, particularly climate change. 
+I collaborated with the FAIR Chemistry [Open Catalyst Project](https://opencatalystproject.org/) to make use of large graph neural networks to discover new catalysts for use in renewable energy storage. 
+I also worked on developing uncertainty quantification approaches for graph neural networks to making these methods more robust and reliable. 
 
-In my free time I enjoy spending time with family and friends. I love board games and outdoor activities – my favorites being *Race for the Galaxy* and canoeing. And I always appreciate the opportunity to try a new IPA or sour.
+I completed my Bachelor's of Science in Chemical Engineering, with a minor in Computer Science, at [Iowa State University](https://www.iastate.edu/) in 2019. 
+There I was involved in researching carbon nanotube biosensors advised by [Nigel Reuel](http://www.reuelgroup.org/)
+I also participated in research into using novel MOFs for carbon capture, which were deployed on the NASA Artemis missions as part of the *NASA X-Hab Academic Innovation Challenge*.
+
+In my free time I enjoy spending time with family and friends. 
+I love board games and outdoor activities – my favorites being *Race for the Galaxy* and canoeing. 
+And I always appreciate the opportunity to try a new IPA or sour.
 
 If you have questions about my research or want to collaborate on anything, feel free to reach out to me via email.
 
 ## Recent News
 
+- *March 2025* I started a new position as a Machine Learning Scientist for Chemistry at Entalpic in Paris!
+- *February 2025* I successfully defended my PhD and graduated from Carnegie Mellon University. Big thanks to everyone I worked with during my time there, especially my advisors John and Zack!
 - *October 2024* [Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis](https://arxiv.org/abs/2410.01650) preprint is up on arXiv.
 - *July 2024*: [Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances](https://arxiv.org/abs/2407.10844) preprint is up on arXiv.
 - *November 2023*: My work on [Predictive Uncertainty Quantification for Graph Neural Network Driven Relaxed Energy Calculations](https://openreview.net/pdf?id=rdgB5BqWCw) accepted to NeurIPS 2023 AI4Science workshop, and I will presenting a poster there in December.
