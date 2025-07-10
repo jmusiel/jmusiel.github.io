@@ -4,7 +4,7 @@ collection: talks
 type: "AI for Science Workshop poster"
 # permalink:
 venue: "NeurIPS"
-date: 2023
+date: 2023-12-10
 location: "New Orleans, LA"
 ---
 

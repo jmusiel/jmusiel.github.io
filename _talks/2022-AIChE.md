@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 # permalink:
 venue: "2022 AIChE annual meeting"
-date: 2022
+date: 2022-11-13
 location: "Phoenix, AZ"
 ---
 

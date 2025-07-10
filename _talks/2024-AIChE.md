@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 # permalink:
 venue: "2024 AIChE annual meeting"
-date: 2024
+date: 2024-10-31
 location: "San Diego, CA"
 ---
 
