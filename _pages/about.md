@@ -12,9 +12,9 @@ I am currently working as a Machine Learning Scientist for Chemistry at [Entalpi
 
 I completed my PhD at [Carnegie Mellon University](https://www.cmu.edu/), advised by [John Kitchin](https://engineering.cmu.edu/directory/bios/kitchin-john.html) and [Zachary Ulissi](https://zulissi.github.io/). 
 My research focused on active learning and transfer learning techniques to adapt large-scale graph neural networks to low-resource problems in catalysis. 
-I worked to develop methods and frameworks capable of accelerating molecular simulations of catalytic systems by orders of magnitude, with the aim of helping to address societal energy and environmental challenges, particularly climate change. 
-I collaborated with the FAIR Chemistry [Open Catalyst Project](https://opencatalystproject.org/) to make use of large graph neural networks to discover new catalysts for use in renewable energy storage. 
-I also worked on developing uncertainty quantification approaches for graph neural networks to making these methods more robust and reliable. 
+I developed machine learning frameworks capable of accelerating molecular simulations of catalytic systems by orders of magnitude, with the aim of helping to address societal energy and environmental challenges, particularly climate change. 
+I collaborated with the FAIR Chemistry [Open Catalyst Project](https://opencatalystproject.org/) to make use of large graph neural networks to discover new catalysts for renewable energy storage. 
+I also developed uncertainty quantification approaches for graph neural networks which improved their reliability and trustworthiness. 
 
 I completed my Bachelor's of Science in Chemical Engineering, with a minor in Computer Science, at [Iowa State University](https://www.iastate.edu/) in 2019. 
 There I was involved in researching carbon nanotube biosensors advised by [Nigel Reuel](http://www.reuelgroup.org/)
