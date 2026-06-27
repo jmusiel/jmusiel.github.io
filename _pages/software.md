@@ -13,17 +13,27 @@ Paper: [FINETUNA: fine-tuning accelerated molecular simulations](https://iopscie
 Codebase: [github.com/ulissigroup/finetuna](https://github.com/ulissigroup/finetuna)  
 Data: [github.com/ulissigroup/finetuna_manuscript](https://github.com/ulissigroup/finetuna_manuscript)
 
+## Magic: The Gathering Deck Simulation and Optimization - `Auto-Goldfish`
+
+I am the sole developer of [`Auto-Goldfish`](https://github.com/jmusiel/auto-goldfish), a Monte Carlo simulation engine and optimizer for Magic: The Gathering Commander deck analysis. It runs thousands of parallel goldfishing simulations to evaluate deck consistency, mana efficiency, mulligan strategies, and spell priority choices.
+
+The project also includes Hyperband-based deck optimization for searching card-swap configurations, a composable effect system for modeling card abilities, an LLM-powered card labeling pipeline using Scryfall data, and a Flask web application with client-side Pyodide simulations and interactive replay tools.
+
+Codebase: [github.com/jmusiel/auto-goldfish](https://github.com/jmusiel/auto-goldfish)
+
 ## Uncertainty Quantification for Open Catalyst Project Models - `UQOCP`
 I am the lead developer of [`UQOCP`](https://github.com/ulissigroup/uqocp), a package containing tools and dataset generation for benchmarking and implementing uncertainty quantification methods for OCP graph models.
 
-Paper: [Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances](https://arxiv.org/abs/2407.10844)  
-Codebase: [github.com/ulissigroup/uqocp](https://github.com/ulissigroup/uqocp)  
+Paper: [Improved Uncertainty Estimation of Graph Neural Network Potentials Using Engineered Latent Space Distances](https://doi.org/10.1021/acs.jpcc.4c04972)
+
+Codebase: [github.com/ulissigroup/uqocp](https://github.com/ulissigroup/uqocp)
 
 ## Predicting and Applying Hessians with Graph Neural Network Potentials - `Gibby`
 I am a co-developer of [`Gibby`](https://github.com/jmusiel/gibby), a package which implements tools for benchmarking Hessian predictions, and using them for Gibbs free energy prediction, transition state finding, and potential energy surface characterization among other things.
 
-Paper: [Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis](https://arxiv.org/abs/2410.01650)  
-Codebase: [github.com/jmusiel/gibby](https://github.com/jmusiel/gibby)  
+Paper: [Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis](https://doi.org/10.1021/acs.jpcc.4c07477)
+
+Codebase: [github.com/jmusiel/gibby](https://github.com/jmusiel/gibby)
 
 ## Fine-Tuning Accelerated Nudged Elastic Band Methods - `NEBtuna`
 

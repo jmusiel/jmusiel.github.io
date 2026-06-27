@@ -7,5 +7,5 @@ date: 2024-04-22
 venue: 'Machine Learning: Science and Technology'
 paperurl: 'https://dx.doi.org/10.1088/2632-2153/ad37f0'
 image: '../images/finetuna_generalization.png'
-citation: '<b>Joseph Musielewicz</b>*, Xiaoxiao Wang*, Richard Tran, Sudheesh Kumar Ethirajan, Xiaoyan Fu, Hilda Mera, John R. Kitchin, Rachel C. Kurchin, and Zachary W. Ulissi "Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials" <i>arXiv preprint arXiv:2311.01987</i> (2023).'
+citation: '<b>Joseph Musielewicz</b>*, Xiaoxiao Wang*, Richard Tran, Sudheesh Kumar Ethirajan, Xiaoyan Fu, Hilda Mera, John R. Kitchin, Rachel C. Kurchin, and Zachary W. Ulissi "Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials" <i>Mach. Learn.: Sci. Technol.</i> <b>5</b>, 025018 (2024).'
 ---

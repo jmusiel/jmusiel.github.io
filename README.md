@@ -22,7 +22,13 @@ See more info at https://academicpages.github.io/
 1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000`; the local server will automatically rebuild and refresh the pages on change.
+
+## Site content notes
+
+- Main pages live in `_pages/`, including the homepage content in `_pages/about.md`, software listings in `_pages/software.md`, and the publications index in `_pages/publications.md`.
+- Publication entries live in `_publications/` as one Markdown file per publication. The archive page sorts the collection by each entry's `date`, and displays `venue`, `excerpt`, `citation`, `paperurl`, and optional `image` metadata.
+- Static downloadable files, including the resume PDF, live in `files/`.
 
 # Changelog -- bugfixes and enhancements
 
